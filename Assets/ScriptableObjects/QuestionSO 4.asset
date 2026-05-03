@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79cbb9e8cc397fc4692adfd4148a8401, type: 3}
   m_Name: QuestionSO 4
   m_EditorClassIdentifier: 
-  question: Ai vrea sa te arunci pe geam?
+  question: Cate urechi are un om?
   answers:
-  - da
-  - asta-i dorinta mea de cand m-am nascut
-  - normal
-  - nu ca mi-e frica
+  - 0
+  - 2
+  - 123456
+  - -2
   correctAnswerIndex: 1
